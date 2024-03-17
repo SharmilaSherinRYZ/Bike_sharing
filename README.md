@@ -1,5 +1,4 @@
-Assignment.pdf](https://github.com/SharmilaSherinRYZ/Bike_sharing/files/14627051/Assignment.pdf
-bike_sharing (2).pdf](https://github.com/SharmilaSherinRYZ/Bike_sharing/files/14627048/bike_sharing.2.pdf
+
 # Problem Statement
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
@@ -45,3 +44,4 @@ r2_score(y_test, y_pred)
 where y_test is the test data set for the target variable, and y_pred is the variable containing the predicted values of the target variable on the test set.
 Please don't forget to perform this step as the R-squared score on the test set holds some marks. The variable names inside the 'r2_score' function can be different based on the variable names you have chosen.
  
+![image](https://github.com/SharmilaSherinRYZ/Bike_sharing/assets/156569782/a27a5fb8-1e58-4545-b349-a51855af0f56)
