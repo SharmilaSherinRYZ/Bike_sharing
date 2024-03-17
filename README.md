@@ -1,3 +1,5 @@
+[Assignment.pdf](https://github.com/SharmilaSherinRYZ/Bike_sharing/files/14627051/Assignment.pdf)
+[bike_sharing (2).pdf](https://github.com/SharmilaSherinRYZ/Bike_sharing/files/14627048/bike_sharing.2.pdf)
 # Problem Statement
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
